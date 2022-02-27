@@ -1,0 +1,41 @@
+html,body
+{
+    height: 100%;
+    margin: 0;
+}
+.img
+{
+    height: 300;
+    width: 300;
+}
+
+.definition
+{
+    font-style:italic;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    color:  white;
+}
+.input_username
+{
+    width: 50%;
+}
+.header
+{
+    color: white;
+}
+body
+{
+    background-image: linear-gradient(to right top, rgb(36, 160, 36), rgb(32, 32, 117), rgb(226, 81, 81));
+}
+.color_chat
+{
+    color: white;
+}
+.Welcome
+{
+    color: white;
+}
+.color_white
+{
+    color: white;
+}
